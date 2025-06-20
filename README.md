@@ -53,7 +53,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mashruf99&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=mashruf99&theme=tokyonight" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=mashruf99&theme=tokyonight" alt="GitHub Streak" />
+      </a>
     </td>
   </tr>
 </table>
